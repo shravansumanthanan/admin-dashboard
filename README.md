@@ -75,7 +75,7 @@ To run the project in your local environment, follow these steps:
    ```
 2. **Install dependencies**.
    ```bash
-   cd project_syncfusion_dashboard
+   cd admin-dashboard
    npm install
    ```
 3. **Start the development server**.
